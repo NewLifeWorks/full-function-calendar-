@@ -1,1 +1,2 @@
 # full-function-calendar-
+I'm looking for a knowledge person familiar with building calendars to work with me in coding a calendar in html, css, bootstrap, js. The calendar will be able to allow administrators to add events easily selecting dates and times. This calendar would implement on a church website I'm working on as a ministry. I'm newer at coding and willing to learn. Once the project is complete, anyone can use it and make it better open source. Thank you. 
